@@ -20,10 +20,14 @@
 
 // // // console.log(personalMovieDB);
 
-const myInt = 5;
-const myFloat = 6.667;
 
-typeof myInt;
-typeof myFloat;
+// const shoppingDone = true;
 
-console.log(typeof myFloat);
+// if (shoppingDone) { // не нужно явно указывать '=== true'
+//   const childsAllowance = 10;
+// } else {
+//   const childsAllowance = 5;
+// 
+
+a = 50;
+console.log(a);
