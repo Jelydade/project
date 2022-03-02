@@ -1,11 +1,29 @@
-"use strict"
+"use strict";
 
-let incr = 77,
-    decr = 77;
+// const numberOfFilms = +prompt('Сколько фильмов Вы уже посмотрели?','');
 
-incr++;
-decr--;
+// const personalMovieDB = {
+//     count: numberOfFilms,
+//     movies: {},
+//     actors: {},
+//     genres: [],
+//     privat: false
+// // };
 
-console.log(incr);
-console.log(decr);
+// // const a = prompt('Один и последних просмотренных фильмов?', ''),
+// //       b = prompt('На сколько оцените его?', ''),
+// //       c = prompt('Один и последних просмотренных фильмов?', ''),
+// //       d = prompt('На сколько оцените его?', '');
 
+// // personalMovieDB.movies[a] = b;
+// // personalMovieDB.movies[c] = d;
+
+// // // console.log(personalMovieDB);
+
+const myInt = 5;
+const myFloat = 6.667;
+
+typeof myInt;
+typeof myFloat;
+
+console.log(typeof myFloat);
